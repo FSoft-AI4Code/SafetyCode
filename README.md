@@ -16,7 +16,7 @@
 ### 1. Environment Setup
 
 ```bash
-git clone https://github.com/.../....git && cd safety_code
+git clone https://github.com/FSoft-AI4Code/SafetyCode.git && cd SafetyCode
 conda create -n verl_safe python=3.10 -y
 conda activate verl_safe
 bash install.sh
